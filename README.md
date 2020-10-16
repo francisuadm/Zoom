@@ -9,7 +9,8 @@
 ---
 
 ### Rename screen name ![RenameZoomName](RenameZoomName.png)
----
+
+
 ### Share Options ![ShareOptions](ShareOPTIONS.png)
 ---
 
