@@ -7,6 +7,7 @@
 ---
 ### Host webinar enable PC Sound and Video Clip: ![Webinar Enable PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
 ---
+
 ### Share Options ![ShareOptions](ShareOPTIONS.png)
 ---
 
