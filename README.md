@@ -7,10 +7,10 @@
 ---
 ### Host webinar enable PC Sound and Video Clip: ![Webinar Enable PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
 ---
-### Rename screen name ![Rename screen name](ShareOPTIONS.png)
+### Rename screen name ![Rename screen name](RenameZoomName.png)
 ---
 
-### Share Options ![ShareOptions](RenameZoomName.png)
+### Share Options ![ShareOptions](ShareOPTIONS.png)
 ---
 
 
