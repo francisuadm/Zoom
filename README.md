@@ -5,13 +5,8 @@ Snapshot of host webinar control panel menu: ![Webinar Host Control Panel Menu](
 ---
 Snapshot of host webinar enable PC Sound and Video Clip: ![Webinar Enable PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
 ---
-
-
-
-
-
-
-
+Snapshot of Share Options ![ShareOptions](ShareOPTIONS.png)
+---
 
 
 
