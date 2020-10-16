@@ -2,9 +2,10 @@
 
 ---
 Snapshot of Zoom Webinar Host Control Panel Menu:
-![](ZoomWebinarHostControlPanelMenu.png)
+![Control Panel](ZoomWebinarHostControlPanelMenu.png)
+
 Snapshot of Zoom Webinar More Enable PC Sound and Video Clip:
-![](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
+![PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
 ---
 
 
