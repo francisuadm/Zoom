@@ -1,22 +1,13 @@
 # Zoom Meeting/Webinar Info
 
-
------- Snapshot of Zoom Webinar Host Control Panel Menu:
+---
+##### Snapshot of Zoom Webinar Host Control Panel Menu:
 ![Control Panel](ZoomWebinarHostControlPanelMenu.png)
-#### Snapshot of Zoom Webinar More Enable PC Sound and Video Clip:
+##### Snapshot of Zoom Webinar More Enable PC Sound and Video Clip:
 ![PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
 ---
 
 
-
-
-
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
 
 
 
