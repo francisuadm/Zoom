@@ -1,11 +1,13 @@
 # Zoom Meeting/Webinar Info
 
 ---
-Snapshot of host webinar control panel menu: ![Webinar Host Control Panel Menu](ZoomWebinarHostControlPanelMenu.png)
+## Snapshot
 ---
-Snapshot of host webinar enable PC Sound and Video Clip: ![Webinar Enable PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
+Host webinar control panel menu: ![Webinar Host Control Panel Menu](ZoomWebinarHostControlPanelMenu.png)
 ---
-Snapshot of Share Options ![ShareOptions](ShareOPTIONS.png)
+Host webinar enable PC Sound and Video Clip: ![Webinar Enable PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
+---
+Share Options ![ShareOptions](ShareOPTIONS.png)
 ---
 
 
