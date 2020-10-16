@@ -6,13 +6,6 @@ Snapshot of Zoom Webinar More Enable PC Sound and Video Clip:
 ---
 
 
-# Table of Contents
-* [Team Members](#team-members)
-
-# <a name="team-members"></a>Team Members
-* "J. Jesus. P. Aguinaga" <admin@listforks.com>
-
-
 
 
 
