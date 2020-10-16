@@ -16,6 +16,6 @@
 This example is only a sample and is **NOT guaranteed to be bug free and production quality**.
 
 ***The sample are meant to:***
-- Illustrate how to use it.
+- Illustrate how to use it. 
 - Serve as an example of the step by step process of personal use.
 
