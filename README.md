@@ -1,8 +1,9 @@
 # Zoom Meeting/Webinar Info
 
 ---
-##### <center>Snapshot of Zoom Webinar Host Control Panel Menu:</center>
-![Control Panel](ZoomWebinarHostControlPanelMenu.png)
+##### Snapshot of Zoom Webinar Host Control Panel Menu:
+<center>
+![Control Panel](ZoomWebinarHostControlPanelMenu.png)</center>
 ##### Snapshot of Zoom Webinar More Enable PC Sound and Video Clip:
 ![PC Sound and Video Clip](ZoomWebinarShareMORE_Enable_Sound.VideoClip.png)
 ---
